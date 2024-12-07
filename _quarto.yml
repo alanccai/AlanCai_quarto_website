@@ -3,13 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "AlanCai_quarto_website"
+  title: "Alan Cai"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:

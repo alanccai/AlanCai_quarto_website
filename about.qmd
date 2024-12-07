@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-About this site
+## Interests
 
-```{r}
-1 + 1
-```
+Aquatic ecosystems, remote sensing, wetland ecology, restoration ecology, coupled human-environment systems, environmental policy and management, climate change impacts and resilience
+
+## Education
+
+Ph.D. in Watershed Science (2022 - present) Colorado State University – Fort Collins Topic: Remote sensing-driven modeling of tidal marsh accretion and ecology
+
+M.S. in Environmental Systems (2020) University of California, Merced Thesis: Environmental Flows Decision-making and Implementation at Hydropower Project Facilities in the Western United States
+
+B.S. in Environmental Sciences & B.A. in Atmospheric Science (2014) University of California, Berkeley
