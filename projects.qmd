@@ -5,7 +5,9 @@ title: "Projects"
 
 1. The accurate detection of flooding within remotely sensed images of tidal marshes serves several purposes, including filtering flooded pixels for analyses of marsh vegetation dynamics, and spatiotemporally quantifying flooding patterns (e.g. duration, extent, frequency, depth, tidal elevation). Previous research developed FLATS (Flooding in Landsat across tidal systems), a flooding detection algorithm in tidal marshes. FLATS developed a generalized linear model based on spectral band information from the Landsat 8 satellite, and ground-truthed by high frequency images taken by a surface-elevation digital camera. This research will help estimate the spatiotemporal patterns of tidal marsh flooding with finer resolution than is available through traditional datasets, such as the US national coastal tide gauge network.
 
-![Caroline R. Narron, Jessica L. O'Connell, Deepak R. Mishra, David L. Cotten, Peter A. Hawman, Lishen Mao, Flooding in Landsat across tidal systems (FLATS): An index for intermittent tidal filtering and frequency detection in salt marsh environments, Ecological Indicators, Volume 141, 2022, 109045, ISSN 1470-160X, https://doi.org/10.1016/j.ecolind.2022.109045.](FLATS.jpg)
+![Narron, C. R., J. L. O’Connell, D. R. Mishra, D. L. Cotten, P. A. Hawman, and L. Mao. 2022. Flooding in Landsat across tidal systems (FLATS): An index for intermittent tidal filtering and frequency detection in salt marsh environments. Ecological Indicators 141:109045.](FLATS.jpg)
+
+
 
 2. The CMEM (Cohort Marsh Equilibrium Model) is a mechanistic model that estimates decadal-scale trajectories of marsh soil vertical accretion and SOC through simulation of relevant biophysical processes driving soil dynamics, including sediment trapping from tidal flows, primary production, and organic carbon decomposition. I will implement rCMEM within a coastal marsh area with a rich set of existing data for marsh evaluation, the Georgia Coastal Ecosystem Long-term Ecological Research (GCE-LTER), located on and around Sapelo Island, GA.
 
